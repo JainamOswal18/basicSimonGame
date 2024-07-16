@@ -50,7 +50,7 @@ function nextSequence() {
     
     $("#" + randomChosenColour).fadeIn(100).fadeOut(100).fadeIn(100);
     
-    playSound(randomChosenColour);p
+    playSound(randomChosenColour);
     
     level++;
 
